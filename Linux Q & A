@@ -1,0 +1,100 @@
+What is the purpose of the "awk" command in Linux? Provide an example of how you would use it.
+Explain the concept of process scheduling in Linux. What scheduling algorithms are commonly used?
+How do you check the open ports on a Linux system? Provide the command and its output.
+Describe the purpose of the "cron" daemon in Linux. How would you schedule a job to run at a specific time using cron?
+What is a Linux kernel module? How would you load and unload a kernel module?
+Explain the difference between a relative path and an absolute path in Linux.
+How do you find the IP address of a Linux system using the command line?
+What is the purpose of the "cut" command in Linux? Provide an example of how you would use it.
+Describe the purpose of the "rsync" command in Linux. How would you use it to synchronize files between two systems?
+What is the difference between a daemon and a service in Linux?
+How do you check the CPU usage of a process in Linux? Provide the command and its output.
+Explain the concept of virtual memory in Linux. How does it work?
+How do you change the ownership of a file in Linux? Provide the command and its syntax.
+Describe the purpose of the "dd" command in Linux. Provide an example of how you would use it.
+What is a symbolic link in Linux? How would you create a symbolic link?
+Explain the difference between the "find" command and the "locate" command in Linux.
+How do you check the current runlevel of a Linux system? Provide the command and its output.
+Describe the purpose of the "tar" command in Linux. How would you create a tarball of a directory?
+What is the purpose of the "traceroute" command in Linux? How would you use it to trace the route to a remote host?
+Explain the concept of process forking in Linux. How does it work?
+How do you check the size of a file in Linux? Provide the command and its output.
+Describe the purpose of the "ping" command in Linux. How would you use it to test network connectivity?
+What is a Linux shell? Name some commonly used shells and explain their differences.
+How do you check the disk space usage of a specific directory in Linux? Provide the command and its output.
+Explain the purpose of the "mount" command in Linux. How would you mount a USB drive?
+What is the purpose of the "grep" command in Linux? Provide an example of how you would use it.
+How do you check the system uptime in Linux? Provide the command and its output.
+Describe the purpose of the "chroot" command in Linux. How would you use it to create a chroot jail?
+Explain the concept of file system journaling in Linux. How does it improve data integrity?
+How do you check the network connectivity between two hosts in Linux? Provide the command and its output.
+What is the purpose of the "ifconfig" command in Linux? How would you use it to configure a network interface?
+How do you check the size of a directory in Linux? Provide the command and its output.
+Describe the purpose of the "lsof" command in Linux. How would you use it to list open files and processes?
+Explain the concept of inter-process communication (IPC) in Linux. Name some IPC mechanisms.
+How do you check the memory usage of a process in Linux? Provide the command and its output.
+What is the purpose of the "kill" command in Linux? How would you use it to terminate a process?
+Describe the purpose of the "netstat" command in Linux. How would you use it to display network statistics?
+How do you check the current disk usage of a Linux system? Provide the command and its output.
+Explain the concept of file permissions in Linux. What are the different permission levels and what do they signify?
+What is the purpose of the "sed" command in Linux? Provide an example of how you would use it.
+How do you check the network connectivity to a specific port on a remote host in Linux? Provide the command and its output.
+Describe the purpose of the "iptables" command in Linux. How would you use it to set up a basic firewall rule?
+Explain the difference between TCP and UDP protocols in Linux networking.
+How do you recursively copy files and directories in Linux? Provide the command and its syntax.
+What is the purpose of the "ssh" command in Linux? How would you use it to connect to a remote server?
+Describe the purpose of the "quota" command in Linux. How would you use it to manage disk quotas?
+How do you check the available disk space on a Linux system? Provide the command and its output.
+Explain the concept of process signals in Linux. Give examples of common signals and their meanings.
+What is the purpose of the "sort" command in Linux? Provide an example of how you would use it.
+How do you check the network latency to a remote host in Linux? Provide the command and its output.
+Describe the purpose of the "usermod" command in Linux. How would you use it to modify user properties?
+Explain the difference between hard links and soft links in Linux. When would you use each?
+How do you check the status of a Linux service? Provide the command and its output.
+What is the purpose of the "tee" command in Linux? Provide an example of how you would use it.
+Describe the purpose of the "chown" command in Linux. How would you use it to change the owner and group of a file?
+How do you check the network routes on a Linux system? Provide the command and its output.
+Explain the concept of environment variables in Linux. How would you set and display environment variables?
+What is the purpose of the "find" command in Linux? Provide an example of how you would use it to search for files with specific criteria.
+How do you check the current users logged into a Linux system? Provide the command and its output.
+Describe the purpose of the "iptables" command in Linux. How would you use it to perform network address translation (NAT)?
+Explain the difference between a shell variable and an environment variable in Linux.
+How do you check the system load average in Linux? Provide the command and its output.
+What is the purpose of the "nohup" command in Linux? How would you use it to run a command that persists after logout?
+Describe the purpose of the "xargs" command in Linux. How would you use it to process command-line arguments?
+How do you check the installed packages and their versions on a Linux system? Provide the command and its output.
+Explain the concept of file system permissions in Linux. How do you set the permissions for a file or directory?
+What is the purpose of the "ps" command in Linux? How would you use it to display process information?
+Describe the purpose of the "nc" command in Linux. How would you use it for network troubleshooting?
+How do you check the system logs in Linux? Provide the command and its output.
+Explain the concept of swap space in Linux. When and why would you use it?
+What is the purpose of the "chmod" command in Linux? Provide an example of how you would use it.
+How do you check the network interface configuration on a Linux system? Provide the command and its output.
+Describe the purpose of the "sync" command in Linux. How does it ensure data consistency?
+Explain the difference between a process and a thread in Linux.
+What is the purpose of the "useradd" command in Linux? How would you use it to create a new user account?
+How do you check the system's DNS configuration in Linux? Provide the command and its output.
+Describe the purpose of the "df" command in Linux. How would you use it to check the disk space usage?
+Explain the concept of environment modules in Linux. How do you load and unload environment modules?
+What is the purpose of the "uptime" command in Linux? What information does it provide?
+How do you check the system's network interfaces and their IP addresses in Linux? Provide the command and its output.
+Describe the purpose of the "du" command in Linux. How would you use it to estimate disk usage?
+Explain the concept of file system encryption in Linux. How do you encrypt and decrypt files?
+What is the purpose of the "cut" command in Linux? Provide an example of how you would use it.
+How do you check the system's DNS resolution in Linux? Provide the command and its output.
+Describe the purpose of the "route" command in Linux. How would you use it to add or remove a network route?
+Explain the concept of process synchronization in Linux. How do you ensure mutually exclusive access to shared resources?
+What is the purpose of the "sed" command in Linux? Provide an example of how you would use it for text manipulation.
+How do you check the system's network connection status in Linux? Provide the command and its output.
+Describe the purpose of the "crontab" command in Linux. How would you use it to schedule a periodic task?
+Explain the concept of system runlevels in Linux. What are the different runlevels and their significance?
+What is the purpose of the "cut" command in Linux? Provide an example of how you would use it.
+How do you check the system's hostname and domain name in Linux? Provide the command and its output.
+Describe the purpose of the "tail" command in Linux. How would you use it to display the last lines of a file?
+Explain the concept of file system quotas in Linux. How do you set and manage quotas for users and groups?
+What is the purpose of the "xargs" command in Linux? Provide an example of how you would use it.
+How do you check the system's network interfaces and their configurations in Linux? Provide the command and its output.
+Describe the purpose of the "killall" command in Linux. How would you use it to terminate multiple processes?
+Explain the concept of kernel tuning in Linux. What kernel parameters can you adjust and why?
+What is the purpose of the "diff" command in Linux? Provide an example of how you would use it to compare two files.
+How do you check the system's swap space
